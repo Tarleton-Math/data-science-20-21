@@ -1,1 +1,4 @@
-# data-science-20-21-notes
+## Data Science (masters)
+## Math 5364 & 5366, Fall 20 & Spring 21
+## Tarleton State University
+## Dr. Scott Cook
