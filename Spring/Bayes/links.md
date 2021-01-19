@@ -1,3 +1,5 @@
+- Bayesian Data Analysis (the Bayesian bible) - http://www.stat.columbia.edu/~gelman/book/
+
 - Bayes 1
   - VanderPlas original - http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
   - Cook update - https://www.kaggle.com/scook4242/bayes1
