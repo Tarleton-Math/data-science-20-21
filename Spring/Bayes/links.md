@@ -1,1 +1,1 @@
-[Bayes 1](https://www.kaggle.com/scook4242/bayes1)
+- Bayes 1 - (https://www.kaggle.com/scook4242/bayes1)
