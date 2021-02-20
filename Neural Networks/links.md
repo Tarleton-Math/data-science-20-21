@@ -6,6 +6,6 @@ IntroToDeepLearning.com
 
 - Submit 3 questions/comments from each lecture - https://forms.gle/81a3LWvUmYcqT5fv6
 
-- Deep Learning textbook reference
+- Deep Learning - textbook reference by an Ian Goodfellow, Yoshua Bengio, Aaron Courville
   - https://www.deeplearningbook.org/
   - https://www.deeplearningbook.org/lecture_slides.html
