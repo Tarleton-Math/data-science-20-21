@@ -1,4 +1,5 @@
 - MIT Course - http://introtodeeplearning.com/2020/index.html
+
 © Alexander Amini and Ava Soleimany
 MIT 6.S191: Introduction to Deep Learning
 IntroToDeepLearning.com
