@@ -9,3 +9,6 @@ IntroToDeepLearning.com
 - Deep Learning - textbook reference by an Ian Goodfellow, Yoshua Bengio, Aaron Courville
   - https://www.deeplearningbook.org/
   - https://www.deeplearningbook.org/lecture_slides.html
+
+- Explanation of RNN - https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Explanation of LSTM - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
