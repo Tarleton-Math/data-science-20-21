@@ -1,4 +1,4 @@
-- [hwk00](https://classroom.github.com/a/THYgoIAn)
+- hwk00 - https://classroom.github.com/a/THYgoIAn
 
 
 
